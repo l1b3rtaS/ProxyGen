@@ -19,7 +19,11 @@ cd ProxyGen
 python3 ProxyGen.py
 ```
 
-
+How it work
+----------
+```
+You choose port and ip pattern. Next, list.txt will appear in the ProxyGen folder
+```
 
 
 
